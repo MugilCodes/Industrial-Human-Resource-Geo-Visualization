@@ -26,9 +26,6 @@ This project analyzes and visualizes workforce distribution across various indus
 
 📈 **Results & Insights**
     Retail & Agriculture have the highest workforce distribution.
-
     Manufacturing is concentrated in urban states like Maharashtra & Gujarat.
-
     NLP-based classification improved industry categorization accuracy.
-
     t-SNE visualization helped in detecting workforce clusters.
